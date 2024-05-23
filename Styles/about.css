@@ -245,9 +245,8 @@ footer{
         font-weight: bold;
     }
     
-    .services tr td:hover{
-        background-color: initial;
-        color: initial;
+    .services tr:hover{
+        font-weight: initial;
     }
 
     #colombo:hover{
