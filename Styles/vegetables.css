@@ -204,6 +204,7 @@ footer{
     .container{
         grid-template-columns: auto;
         text-align: center;
+        justify-content:center;
     }
 
     .ordernow a{
