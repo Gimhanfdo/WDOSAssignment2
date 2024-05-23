@@ -245,7 +245,7 @@ footer{
         font-weight: bold;
     }
     
-    .services tr:hover{
+    .services tr td:hover{
         background-color: initial;
         color: initial;
     }
